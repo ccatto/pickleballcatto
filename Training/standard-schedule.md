@@ -1,18 +1,26 @@
 # Standard Schedule
 
+## Summary: 
+- 7:00 10 min Mid Court drop; volley; drive; overheads;
+- 7:10 10 min Volleys
+- 7:20 20 min Focus time
+- 7:40 10 min Serve & returns
+- 7:50 10 min 7-11 game situation competitive 
+
 ## 7:00 AM - Warmup (5-10 minutes)
 
-### Cross Court Drills (until 8:15)
+### Mid Court Drops Drives Volleys overhead drill (until 7:10)
+**Goal:** Warm up volleys drops drives & overhead
 - 1 net & 1 mid court - Drop & Volley
   - Try more backhands than forehands
 - 1 up at net, 1 baseline
   - person at base line hits some drops then drives
-- 10 overheads person at base line feeds
+- 10 overheads person at net as base line feeds
 - then switch person at net moves to mid court drops
 
 ## Volleys (5-10 minutes)
-**Goal:** Volley - keep ball in air
-- In-air volleys - keep in play for 10, then go aggressive
+**Goal:** Volleys
+- In-air volleys - keep in play for 5 or 10 shots, then go aggressive
 - Variation: 1 player hits to feet while the other digs out
 - Variation: pick a spot - one player goes up line and other goes cross court
 
@@ -36,7 +44,7 @@ Different topic area each week
 ### Setup
 - One person at net, one at baseline
 - Baseline person serves
-- Net person cannot return in kitchen
+- Net person cannot return in kitchen on 1st shot
 
 ### Scoring
 - Net person plays to 11 points
