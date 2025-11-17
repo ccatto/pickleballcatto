@@ -2,7 +2,7 @@
 
 This is our training page; where I want to place some training materials;
 
-Currently I have enjoyed training for an hour with my brother and some friends early in the morning before work occasionally. We are developing a format of our training session. We currently have a few drills that we do regularly and then a set time where we have to focus on a certain area. I am going to outline what we do and the changes we make to as we refine it to see what works and where we can improve. 
+Currently I have enjoyed training for an hour about once a week with my brother and some friends early in the morning before work occasionally. We are developing a format of our training session. We currently have a few drills that we do regularly and then a set time where we have to focus on a certain area. I am going to outline what we do and the changes we make to as we refine it to see what works and where we can improve. 
 
 Our [Standard structure](standard-schedule.md): 
 

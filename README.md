@@ -1,4 +1,4 @@
-# pickleballcatto
+# Pickleball Catto
 Catto's Pickleball notes
 
 This is going to be a public notes for Pickleball
@@ -7,7 +7,9 @@ I have really enjoyed playing pickle as I started in spring of 2023 and have con
 
 I am thinking we have some sections so to start we will have 
 * [Training](/Training/training.md)
-* Paddles
-* People
+* [Paddles](/Paddles/paddles.md)
+  * [Paddle Reviews](/Paddles/paddles.md)
+* [Shots](/Shots/shots.md)
+* [People](/People/pickle-people.md) 
 
 
